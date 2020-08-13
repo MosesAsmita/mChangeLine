@@ -1,0 +1,46 @@
+name: onexbet
+description: A new Flutter application.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  ussd_service:
+  cloud_firestore:
+  flutter_local_notifications:
+  modal_progress_hud:
+  mobile_number:
+  modal_bottom_sheet:
+  permission_handler:
+  connectivity:
+  moor:
+  moor_ffi:
+  path_provider:
+  url_launcher:
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  moor_generator:
+  build_runner:
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780577714922",
+    "firebase_url": "https://onexbet-aa481.firebaseio.com",
+    "project_id": "onexbet-aa481",
+    "storage_bucket": "onexbet-aa481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780577714922:android:413b6e14512e50b7fedd93",
+        "android_client_info": {
+          "package_name": "redza.com.onexbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780577714922-v4rb0ejrgc1bei0iml29pblcn6cog9v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Uhu745BQA3MZn_wYh3tpAbfmycxsstI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780577714922-v4rb0ejrgc1bei0iml29pblcn6cog9v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
